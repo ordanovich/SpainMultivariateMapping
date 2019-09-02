@@ -3,7 +3,7 @@
 
 ## Interactive application for multivariate mapping based on the data retrieved from the [INEbase](https://www.ine.es/dyngs/INEbase/listaoperaciones.htm)
 
-Please refer to the source to get more information on how the [Web Services](https://www.ine.es/dyngs/DataLab/en/manual.html?cid=45) function and how the [requests for data retrieval](https://www.ine.es/dyngs/DataLab/en/manual.html?cid=48) should be pulled together. This application is built upon pre-processed data to speed up rendering of visuals, but you can build your own procedure for data download and mapping by refering to the process commented [here](https://github.com/ordanovich/downloadINE).
+Please refer to the source to get more information on how the [Web Services](https://www.ine.es/dyngs/DataLab/en/manual.html?cid=45) function and how the [requests for data retrieval](https://www.ine.es/dyngs/DataLab/en/manual.html?cid=48) should be pulled together. This application is built upon pre-processed data to speed up rendering of visuals, but you can build your own procedure for direct data download and consequent mapping by refering to the process commented [here](https://github.com/ordanovich/downloadINE).
 
 ### Nomenclature
 
