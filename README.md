@@ -13,4 +13,6 @@ Please refer to the source to get more information on how the [Web Services](htt
 
 The application itself (use `shiny::runApp()` from the cloned repository or open the <a href="http://193.146.75.235/sample-apps/final_apps/demographic_phenomena/"  rel="noopener noreferrer" target="_blank">online version</a> to preview the app) pursues the goal to allow users to select a combination of variables (one variable for a simple choropleth map, two variables for biscale mapping and 3 variables to create a ternary composition map) and map it at selected administrative level for a chosen year. 
 
+<p align="center"><a href="http://193.146.75.235/sample-apps/final_apps/demographic_phenomena/"><img src="https://github.com/ordanovich/images/blob/master/animated_demophen_cropped.gif?raw=true"></a></p>
+
 For more information on how bivariate maps are made using the [biscale package in R](https://github.com/slu-openGIS/biscale) or [ArcGIS online](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/how-to-make-a-relationship-map-in-arcgis-online/) please refer to the links provided. To learn more about the ternary compositions in R visit the [ticolore package repository](https://github.com/jschoeley/tricolore).
